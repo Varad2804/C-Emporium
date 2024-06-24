@@ -1,0 +1,53 @@
+Customer Name: Varad
+
+Products in Cart:
+Product ID: 0
+Product Name: 
+Quantity: 0
+Cost: 0
+
+Product ID: 0
+Product Name: 
+Quantity: 0
+Cost: 0
+
+Product ID: 0
+Product Name: 
+Quantity: 0
+Cost: 0
+
+Product ID: 0
+Product Name: 
+Quantity: 0
+Cost: 0
+
+Product ID: 0
+Product Name: 
+Quantity: 0
+Cost: 0
+
+Product ID: 0
+Product Name: 
+Quantity: 0
+Cost: 0
+
+Product ID: 0
+Product Name: 
+Quantity: 0
+Cost: 0
+
+Product ID: 0
+Product Name: 
+Quantity: 0
+Cost: 0
+
+Product ID: 0
+Product Name: 
+Quantity: 0
+Cost: 0
+
+Product ID: 0
+Product Name: 
+Quantity: 0
+Cost: 0
+

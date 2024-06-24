@@ -1,0 +1,10 @@
+Product ID: 123561
+Product Name: Bananas
+Product Cost: 10
+Product Quantity: 12
+
+Product ID: 12341
+Product Name: Apples 
+Product Cost: 40
+Product Quantity: 3000
+
